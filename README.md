@@ -1,3 +1,5 @@
+[![Upload Python Package](https://github.com/Ruh-Al-Tarikh/quickstart/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Ruh-Al-Tarikh/quickstart/actions/workflows/python-publish.yml)
+
 # quickstart
 
 A minimal Python "quickstart" project template to get a small script or package up and running quickly.
