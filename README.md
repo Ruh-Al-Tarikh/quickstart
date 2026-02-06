@@ -1,9 +1,10 @@
 <<<<<<< HEAD
-#
+
+🚀 QuickStart
 
 <<<<<<< HEAD
 
-🚀 QuickStart
+
 =======
 [![Upload Python Package](https://github.com/Ruh-Al-Tarikh/quickstart/actions/workflows/python-publish.yml/badge.svg)](https://github.com/Ruh-Al-Tarikh/quickstart/actions/workflows/python-publish.yml)
 >>>>>>> e9fa83a9161933a6486eb1bee48501f812e0fdf8
